@@ -1,0 +1,7 @@
+.planets {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    line-height: 3rem;
+    font-size: 20px;
+  }
